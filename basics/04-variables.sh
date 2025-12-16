@@ -12,3 +12,4 @@ echo "$person1 :: Hello $person2, How are you?"
 echo "$person2 :: Hi $person1, I am fine. How about you?"
 echo "$person1 :: I am also good. What are you doing these days?"
 echo "$person2 :: Just learning some shell scripting."
+# To run this script use the command: bash 04-variables.sh Mahesh Bob
