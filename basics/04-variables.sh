@@ -1,7 +1,11 @@
 
 #!/bin/bash
 
-#Arguments
+#Arguments you pass while executing the script are stored in special variables
+# $0 - Name of the script
+# $1 - First argument
+# $2 - Second argument
+# and so on...
 person1=$1
 person2=$2
 echo "$person1 :: Hello $person2, How are you?"
